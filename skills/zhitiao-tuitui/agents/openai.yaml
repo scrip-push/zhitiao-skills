@@ -1,5 +1,5 @@
 interface:
   display_name: "纸条推推"
-  short_description: "查找招聘公告与岗位机会，按公司性质和地区筛选，并整理本人面经及投递进展"
+  short_description: "按岗位和招聘信息检索意图调用 CLI，支持条件筛选、定时查找与推送任务"
 policy:
   allow_implicit_invocation: true
