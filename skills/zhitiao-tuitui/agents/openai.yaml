@@ -1,4 +1,5 @@
 interface:
   display_name: "纸条推推"
-  short_description: "通过纸条 CLI 检索招聘公告，整理本人面经与投递进展并提供来源"
-  default_prompt: "使用 $zhitiao-tuitui 查找符合我要求的招聘公告，并整理我的面经与投递进展。"
+  short_description: "查找招聘公告与岗位机会，按公司性质和地区筛选，并整理本人面经及投递进展"
+policy:
+  allow_implicit_invocation: true
