@@ -20,7 +20,7 @@ zt auth login
 
 > 使用 skill-installer，从 GitHub 仓库 scrip-push/zhitiao-skills 的 skills/zhitiao-tuitui 路径安装技能。
 
-也可手动克隆本仓库，再复制 `skills/zhitiao-tuitui` 到 `~/.codex/skills/zhitiao-tuitui`（配置了 CODEX_HOME 时放入对应的 skills 目录）。已有同名技能时先检查差异，避免覆盖。重新启动 Codex 以发现新技能。其他支持 SKILL.md 的工具按其技能目录规则安装；首次验证使用 Codex。
+也可手动克隆本仓库，再复制 `skills/zhitiao-tuitui` 到 `~/.codex/skills/zhitiao-tuitui`（配置了 CODEX_HOME 时放入对应的 skills 目录）。已有同名技能时先检查差异，避免覆盖。安装后下一轮对话即可使用新技能。其他支持 SKILL.md 的工具按其技能目录规则安装；首次验证使用 Codex。
 
 ## 使用
 
